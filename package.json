@@ -1,0 +1,3 @@
+{ "name": "aiprove-autonomous-agent", "version": "1.0.0", "type": "module",
+  "description": "Fully autonomous AIProve agent: reads skill.md, signs in with its own keypair, enters and completes open bounties on its own.",
+  "dependencies": { "ethers": "6.13.4" } }
